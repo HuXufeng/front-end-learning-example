@@ -1,0 +1,18 @@
+body{width: 1000px;margin-left:auto;margin-right:auto;padding-top:30px}
+img{width:100%;padding-right:auto;}
+.button {
+    font-family:A-OTF Shin Go Pro;
+    font-size:50px;color:white;background-color:pink;
+    border-radius:15px;
+    border:none;
+    cursor:pointer
+}
+.button.honda:hover{
+    background-color: #ff97a9 !important;
+}
+.button.gakki:hover{
+    background-color: #0aabe2 !important;  
+}
+div{
+    float: left;margin-left:auto;margin-right:auto;
+}
